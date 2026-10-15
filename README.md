@@ -1,22 +1,22 @@
-#Student Performance Analyzer
+# Student Performance Analyzer
 
-##About
+## About
 
 A Java-based project that accepts student details and marks, calculates grades, and displays a student report.
 
-##Features
+## Features
 
 - Accepts student name and marks
 - Calculates grades based on marks
 - Displays a student report
 - Uses Java conditional statements and Scanner input
 
-##Technologies Used
+## Technologies Used
 
 - Java
 - Visual Studio Code
 
-##How to Run
+## How to Run
 
 1. Open "StudentPerformanceAnalyser.java" in VS Code.
 2. Compile and run the program.
